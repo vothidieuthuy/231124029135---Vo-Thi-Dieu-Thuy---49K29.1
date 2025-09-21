@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+svg {
+  border: 2px solid #999;       /* viền xám nhạt */
+  border-radius: 8px;           /* bo tròn góc */
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2); /* bóng mờ nhẹ */
+  background-color: #fff;       /* nền trắng trong SVG để nổi bật */
+}
